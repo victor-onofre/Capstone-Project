@@ -1,0 +1,101 @@
+COLONIA DEL HECHO,counts,ADDRESS,location,point,latitude,longitude
+ZONA CENTRO,5632,"ZONA CENTRO,Tijuana,Mexico","Zona Centro, Tijuana, Municipio de Tijuana, Baja California, 22055, México","(32.532928, -117.0368426, 0.0)",32.532928,-117.0368426
+ZONA URBANA RIO TIJUANA,2651,"ZONA URBANA RIO TIJUANA,Tijuana,Mexico","Zona Urbana Río Tijuana, Tijuana, Municipio de Tijuana, Baja California, 22010, México","(32.52963695, -117.01986845015388, 0.0)",32.52963695,-117.01986845015388
+MARIANO MATAMOROS,2611,"MARIANO MATAMOROS,Tijuana,Mexico","Mariano Matamoros, SN, Calle Alicante, Otay Constituyentes, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22465, México","(32.513355, -116.945469, 0.0)",32.513355,-116.945469
+CAMINO VERDE,1933,"CAMINO VERDE,Tijuana,Mexico","Mexico, SN, Avenida Melchor Ocampo, Ejido Matamoros, Valle Verde, Tijuana, Municipio de Tijuana, Baja California, 22224, México","(32.516067, -116.858502, 0.0)",32.516067,-116.858502
+S/D,1722,"S/D,Tijuana,Mexico","Mexico, Calle Francisco J Mujica, Otay Constituyentes, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22457, México","(32.529431, -116.946225, 0.0)",32.529431,-116.946225
+EL PIPILA,1498,"EL PIPILA,Tijuana,Mexico","Pipila, Jalisco, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 2216, México","(32.4881637, -116.9535577, 0.0)",32.4881637,-116.9535577
+NUEVA TIJUANA,1464,"NUEVA TIJUANA,Tijuana,Mexico","Nueva, Ejido Matamoros, Villa del Sol Cuarta Sección, Tijuana, Municipio de Tijuana, Baja California, 22204, México","(32.5185352, -116.849387, 0.0)",32.5185352,-116.849387
+MARIANO MATAMOROS NORTE,1448,"MARIANO MATAMOROS NORTE,Tijuana,Mexico","Mariano Matamoros, SN, Calle Alicante, Otay Constituyentes, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22465, México","(32.513355, -116.945469, 0.0)",32.513355,-116.945469
+RIO TIJUANA TERCERA ETAPA,1391,"RIO TIJUANA TERCERA ETAPA,Tijuana,Mexico",,,32.5067,-116.9411
+LA MESA,1351,"LA MESA,Tijuana,Mexico","La Mesa, Del. Sanchez Taboada, Tijuana, Municipio de Tijuana, Baja California, 22250, México","(32.4497809, -116.9886795, 0.0)",32.4497809,-116.9886795
+EL FLORIDO PRIMERA Y SEGUNDA SECCION,1328,"EL FLORIDO PRIMERA Y SEGUNDA SECCION,Tijuana,Mexico",,,32.4655,-116.8748
+EL REFUGIO,1144,"EL REFUGIO,Tijuana,Mexico","El Refugio, Municipio de Tijuana, Baja California, 22253, México","(32.4590746, -116.8314406, 0.0)",32.4590746,-116.8314406
+ZONA NORTE,1099,"ZONA NORTE,Tijuana,Mexico","Zona Urbana Río Tijuana, Tijuana, Municipio de Tijuana, Baja California, 22010, México","(32.52963695, -117.01986845015388, 0.0)",32.52963695,-117.01986845015388
+VILLA FONTANA I,1068,"VILLA FONTANA I,Tijuana,Mexico","Villa Fontana, El Dorado, Valle Verde, Tijuana, Municipio de Tijuana, Baja California, 22205, México","(32.5065109, -116.8719097, 0.0)",32.5065109,-116.8719097
+EL RUBI,1008,"EL RUBI,Tijuana,Mexico","Rubi, Chihuahua, Tijuana, Municipio de Tijuana, Baja California, 22600, México","(32.4991499, -117.0596467, 0.0)",32.4991499,-117.0596467
+SECCION JARDINES PLAYAS DE TIJUANA,905,"SECCION JARDINES PLAYAS DE TIJUANA,Tijuana,Mexico",,,31.7272,-116.0175
+LAS TORRES,891,"LAS TORRES,Tijuana,Mexico","Las Torres, El Dorado, Valle Verde, Tijuana, Municipio de Tijuana, Baja California, 22205, México","(32.5014262, -116.8771774, 0.0)",32.5014262,-116.8771774
+TERRAZAS DEL VALLE,874,"TERRAZAS DEL VALLE,Tijuana,Mexico","Terrazas del Valle, Lomas del Valle, Municipio de Tijuana, Baja California, 22246, México","(32.4885541, -116.826424, 0.0)",32.4885541,-116.826424
+BUENOS AIRES SUR,860,"BUENOS AIRES SUR,Tijuana,Mexico",,,32.507,-116.894
+EJIDO FRANCISCO VILLA,830,"EJIDO FRANCISCO VILLA,Tijuana,Mexico",,,32.516285,-116.895486
+SANCHEZ TABOADA,819,"SANCHEZ TABOADA,Tijuana,Mexico","Del. Sanchez Taboada, La Joya, Municipio de Tijuana, Baja California, 22660, México","(32.4587667, -117.0033247, 0.0)",32.4587667,-117.0033247
+GUAYCURA,811,"GUAYCURA,Tijuana,Mexico","Parque Guaycura, El Chino, Jardín Dorado, Tijuana, Municipio de Tijuana, Baja California, México","(32.5065755, -116.91858252434898, 0.0)",32.5065755,-116.91858252434898
+EL LAGO,793,"EL LAGO,Tijuana,Mexico","Canalización, Calle Vía Rápida Poniente, Constitución de 1917, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22440, México","(32.5138391, -116.96878967723681, 0.0)",32.5138391,-116.96878967723681
+OBRERA,784,"OBRERA,Tijuana,Mexico","Obrera, Tijuana, Municipio de Tijuana, Baja California, 22625, México","(32.4946013, -117.0392336, 0.0)",32.4946013,-117.0392336
+FRANCISCO VILLA,778,"FRANCISCO VILLA,Tijuana,Mexico","Francisco Villa, Tijuana, Municipio de Tijuana, Baja California, 22614, México","(32.5144924, -117.0578674, 0.0)",32.5144924,-117.0578674
+LIBERTAD,775,"LIBERTAD,Tijuana,Mexico","Libertad, Tijuana, Municipio de Tijuana, Baja California, 22400, México","(32.53754995, -117.00865756547279, 0.0)",32.53754995,-117.00865756547279
+REAL DE SAN FRANCISCO,747,"REAL DE SAN FRANCISCO,Tijuana,Mexico","Real de San Francisco, Villa del Sol Cuarta Sección, Tijuana, Municipio de Tijuana, Baja California, 22236, México","(32.485907, -116.8515463, 0.0)",32.485907,-116.8515463
+JARDIN DORADO,736,"JARDIN DORADO,Tijuana,Mexico","Jardín Dorado, Tijuana, Municipio de Tijuana, Baja California, 22203, México","(32.5205374, -116.8895782, 0.0)",32.5205374,-116.8895782
+SOLER,734,"SOLER,Tijuana,Mexico","Avenida Remigio Soler, División Los Altos, Tijuana, Municipio de Tijuana, Baja California, 22536, México","(32.5355065, -117.0761409, 0.0)",32.5355065,-117.0761409
+BUENOS AIRES NORTE,718,"BUENOS AIRES NORTE,Tijuana,Mexico",,,32.5171,-116.9013
+AMPLIACION GUAYCURA,715,"AMPLIACION GUAYCURA,Tijuana,Mexico","Parque Ampliación Guaycura, El Chino, Jardín Dorado, Tijuana, Municipio de Tijuana, Baja California, 22214, México","(32.5064214, -116.9184174, 0.0)",32.5064214,-116.9184174
+PEDREGAL DE SANTA JULIA,710,"PEDREGAL DE SANTA JULIA,Tijuana,Mexico",,,32.4936,-117.0603
+MARIANO MATAMOROS SUR,709,"MARIANO MATAMOROS SUR,Tijuana,Mexico","Mariano Matamoros, SN, Calle Alicante, Otay Constituyentes, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22465, México","(32.513355, -116.945469, 0.0)",32.513355,-116.945469
+20 DE NOVIEMBRE,688,"20 DE NOVIEMBRE,Tijuana,Mexico","20 de Noviembre, 18 de Marzo, El Porvenir, Tijuana, Municipio de Tijuana, Baja California, 22186, México","(32.4629008, -116.9466914, 0.0)",32.4629008,-116.9466914
+EL DORADO RESIDENCIAL,658,"EL DORADO RESIDENCIAL,Tijuana,Mexico","Autopista Tijuana-Ensenada, Costa Coronado Residencial, Tijuana, Municipio de Tijuana, Baja California, 22667, México","(32.5140884, -117.1096189, 0.0)",32.5140884,-117.1096189
+CIUDAD INDUSTRIAL,656,"CIUDAD INDUSTRIAL,Tijuana,Mexico","Ciudad Industrial, Jardín Dorado, Chilpancingo, Municipio de Tijuana, Baja California, 22444, México","(32.539317249999996, -116.91348173462262, 0.0)",32.539317249999996,-116.91348173462262
+ALTIPLANO,622,"ALTIPLANO,Tijuana,Mexico","Altiplano 5ta, Villa del Sol Cuarta Sección, Tijuana, Municipio de Tijuana, Baja California, 22709, México","(32.5219074, -116.8395646, 0.0)",32.5219074,-116.8395646
+INDEPENDENCIA,618,"INDEPENDENCIA,Tijuana,Mexico","Independencia, 18 de Marzo, El Porvenir, Tijuana, Municipio de Tijuana, Baja California, 22682, México","(32.4779492, -116.937688, 0.0)",32.4779492,-116.937688
+3 DE OCTUBRE,607,"3 DE OCTUBRE,Tijuana,Mexico","3 de Octubre, El Porvenir, Tijuana, Municipio de Tijuana, Baja California, 22186, México","(32.4604092, -116.947183, 0.0)",32.4604092,-116.947183
+CAMPESTRE MURUA,595,"CAMPESTRE MURUA,Tijuana,Mexico","Jose Vasconcelos 4,Unidad Campestre Murua, Boulevard Gato Bronco, El Chino, Jardín Dorado, Tijuana, Municipio de Tijuana, Baja California, 22010, México","(32.520025, -116.926953, 0.0)",32.520025,-116.926953
+FRACC HCDA LAS DELICIAS,577,"FRACC HCDA LAS DELICIAS,Tijuana,Mexico",,,32.407,-116.9411
+BUENA VISTA,556,"BUENA VISTA,Tijuana,Mexico","Buena Vista, Tijuana, Municipio de Tijuana, Baja California, 22415, México","(32.520183149999994, -116.9869404831678, 0.0)",32.520183149999994,-116.9869404831678
+VALLE VERDE,553,"VALLE VERDE,Tijuana,Mexico","Valle Verde, Tijuana, Municipio de Tijuana, Baja California, 22203, México","(32.5201768, -116.8704382, 0.0)",32.5201768,-116.8704382
+EL LAUREL,550,"EL LAUREL,Tijuana,Mexico","El Laurel, Terrazas del Valle, El Refugio, Municipio de Tijuana, Baja California, 22253, México","(32.4655621, -116.8326278, 0.0)",32.4655621,-116.8326278
+LA GLORIA,544,"LA GLORIA,Tijuana,Mexico","Real de La Gloria, Del. Sanchez Taboada, Pórticos de San Antonio, Municipio de Tijuana, Baja California, México","(32.44069045, -117.04468417696242, 0.0)",32.44069045,-117.04468417696242
+REFORMA,536,"REFORMA,Tijuana,Mexico","Reforma, 18 de Marzo, El Porvenir, Tijuana, Municipio de Tijuana, Baja California, 22186, México","(32.4705996, -116.9504955, 0.0)",32.4705996,-116.9504955
+LOS ALAMOS,529,"LOS ALAMOS,Tijuana,Mexico","Tijuana, Municipio de Tijuana, Baja California, 22105, México","(32.5010188, -116.9646629, 0.0)",32.5010188,-116.9646629
+10 DE MAYO,527,"10 DE MAYO,Tijuana,Mexico",,,32.5415,-116.8866
+LAZARO CARDENAS,526,"LAZARO CARDENAS,Tijuana,Mexico","Lázaro Cárdenas, Tijuana, Municipio de Tijuana, Baja California, México","(32.5266021, -117.0986317, 0.0)",32.5266021,-117.0986317
+BAJA MAQ. EL AGUILA,523,"BAJA MAQ. EL AGUILA,Tijuana,Mexico",,,32.4955,-116.9043
+ANEXA LOMA DORADA,501,"ANEXA LOMA DORADA,Tijuana,Mexico",,,32.4651,-116.9466
+EJIDO MACLOVIO ROJAS,498,"EJIDO MACLOVIO ROJAS,Tijuana,Mexico","Ejido Maclovio Rojas, Municipio de Tijuana, Baja California, 22254, México","(32.4742264, -116.8018453, 0.0)",32.4742264,-116.8018453
+ZONA RIO,498,"ZONA RIO,Tijuana,Mexico","Zona Urbana Río Tijuana, Tijuana, Municipio de Tijuana, Baja California, 22010, México","(32.52963695, -117.01986845015388, 0.0)",32.52963695,-117.01986845015388
+EL TECOLOTE,483,"EL TECOLOTE,Tijuana,Mexico","Calle Tecolote, El Escondido, Planicie, Tijuana, Municipio de Tijuana, Baja California, 22473, México","(32.5530058, -116.8816674, 0.0)",32.5530058,-116.8816674
+SALVATIERRA,479,"SALVATIERRA,Tijuana,Mexico","Salvatierra, Tijuana, Municipio de Tijuana, Baja California, 22607, México","(32.4829489, -117.0720732, 0.0)",32.5106,-116.9668
+LOS SANTOS,479,"LOS SANTOS,Tijuana,Mexico",,,,
+EL MIRADOR,476,"EL MIRADOR,Tijuana,Mexico","El Mirador, Altiplano 5ta, Villa del Sol Cuarta Sección, Tijuana, Municipio de Tijuana, Baja California, 22709, México","(32.5157821, -116.8356843, 0.0)",32.5157821,-116.8356843
+GARITA DE OTAY,476,"GARITA DE OTAY,Tijuana,Mexico","Boulevard Garita de Otay, Rincón de Otay, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22519, México","(32.5348173, -116.9382995, 0.0)",32.5348173,-116.9382995
+LA MORITA,473,"LA MORITA,Tijuana,Mexico","La Morita, Terrazas del Valle, El Refugio, Municipio de Tijuana, Baja California, 22245, México","(32.4755559, -116.8415907, 0.0)",32.4755559,-116.8415907
+PRESIDENTES,459,"PRESIDENTES,Tijuana,Mexico","INFONAVIT Presidentes, El Porvenir, Tijuana, Municipio de Tijuana, Baja California, 22101, México","(32.49070405, -116.90635142395871, 0.0)",32.49070405,-116.90635142395871
+OTAY UNIVERSIDAD,459,"OTAY UNIVERSIDAD,Tijuana,Mexico","Otay Universidad, Tijuana, Municipio de Tijuana, Baja California, 22427, México","(32.52722345, -116.97483435569566, 0.0)",32.52722345,-116.97483435569566
+JARDINES DEL RUBI,455,"JARDINES DEL RUBI,Tijuana,Mexico",,,32.4827,-117.0279
+LIBERTAD PARTE BAJA,436,"LIBERTAD PARTE BAJA,Tijuana,Mexico","Cañón Johnson Sur Parte Baja, Cima, Tijuana, Municipio de Tijuana, Baja California, 22056, México","(32.5042674, -117.0437694, 0.0)",32.5042674,-117.0437694
+TOMAS AQUINO,435,"TOMAS AQUINO,Tijuana,Mexico","Tomas Aquino, Tijuana, Municipio de Tijuana, Baja California, 22414, México","(32.5284032, -116.98612669044981, 0.0)",32.5284032,-116.98612669044981
+SANTA FE,432,"SANTA FE,Tijuana,Mexico","Santa Fe, Villa Residencial Santa Fe 1ra Sección, Del. Sanchez Taboada, Pórticos de San Antonio, Municipio de Tijuana, Baja California, 22663, México","(32.4472379, -117.0420699, 0.0)",32.4472379,-117.0420699
+VILLA DEL ALAMO,428,"VILLA DEL ALAMO,Tijuana,Mexico","Villa del Alamo, El Porvenir, San Luis, Municipio de Tijuana, Baja California, México","(32.4337319, -116.94340113729231, 0.0)",32.4337319,-116.94340113729231
+VILLA DEL REAL I,427,"VILLA DEL REAL I,Tijuana,Mexico",,,32.513,-116.8594
+AVIACION,415,"AVIACION,Tijuana,Mexico","Aviación, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22014, México","(32.5134672, -117.0083679, 0.0)",32.5134672,-117.0083679
+OTAY CONSTITUYENTES,414,"OTAY CONSTITUYENTES,Tijuana,Mexico","Otay Constituyentes, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22457, México","(32.5293228, -116.9466581, 0.0)",32.5293228,-116.9466581
+EJIDO OJO DE AGUA,413,"EJIDO OJO DE AGUA,Tijuana,Mexico","Ejido Ojo de Agua, El Florido, Ejido Maclovio Rojas, Municipio de Tijuana, Baja California, 22254, México","(32.4753187, -116.788711, 0.0)",32.4753187,-116.788711
+HIDALGO,411,"HIDALGO,Tijuana,Mexico","Hidalgo, Tijuana, Municipio de Tijuana, Baja California, 22056, México","(32.5122864, -117.0453683, 0.0)",32.5122864,-117.0453683
+LOMAS TAURINAS,410,"LOMAS TAURINAS,Tijuana,Mexico","Lomas Taurinas, Tijuana, Municipio de Tijuana, Baja California, 22410, México","(32.535429300000004, -116.9851862485489, 0.0)",32.535429300000004,-116.9851862485489
+EL FLORIDO IV,403,"EL FLORIDO IV,Tijuana,Mexico","El Florido, Ejido Maclovio Rojas, Municipio de Tijuana, Baja California, 22254, México","(32.4625768, -116.8058697, 0.0)",32.4625768,-116.8058697
+CIUDAD JARDIN,402,"CIUDAD JARDIN,Tijuana,Mexico","Ciudad Jardín, Tijuana, Municipio de Tijuana, Baja California, 22600, México","(32.5117637, -117.063674, 0.0)",32.5117637,-117.063674
+EJIDO LAZARO CARDENAS,397,"EJIDO LAZARO CARDENAS,Tijuana,Mexico",,,,
+PLAYAS DE TIJUANA,397,"PLAYAS DE TIJUANA,Tijuana,Mexico","Playas de Tijuana, Calle Colima, Playas de Tijuana Secc Terrazas, Tijuana, Municipio de Tijuana, Baja California, 22101, México","(32.531755, -117.116418, 0.0)",32.435,-117.0073
+INFONAVIT LOMAS DEL PORVENIR,396,"INFONAVIT LOMAS DEL PORVENIR,Tijuana,Mexico",,,32.5203,-117.0691
+ALTAMIRA,391,"ALTAMIRA,Tijuana,Mexico","Lima, Francisco Villa, Tijuana, Municipio de Tijuana, Baja California, 22054, México","(32.5246529, -117.0541656, 0.0)",32.5246529,-117.0541656
+LOMAS DE LA PRESA,390,"LOMAS DE LA PRESA,Tijuana,Mexico",,,32.4488,-116.9249
+PLAYAS,387,"PLAYAS,Tijuana,Mexico","Playas de Tijuana Secc Costa Azul, Tijuana, Municipio de Tijuana, Baja California, 22506, México","(32.502835, -117.120598, 0.0)",32.502835,-117.120598
+RESIDENCIAL DEL BOSQUE,385,"RESIDENCIAL DEL BOSQUE,Tijuana,Mexico",,,32.5124,-116.8307
+VILLA DEL CAMPO,380,"VILLA DEL CAMPO,Tijuana,Mexico","Villa del Campo, Municipio de Tijuana, Baja California, 22110, México","(32.5081727, -116.7365324, 0.0)",32.5081727,-116.7365324
+PANAMERICANO,378,"PANAMERICANO,Tijuana,Mexico","Instituto Panamericano Tec. Num. 2, 5204, Calle Mar Hudson, Misión del Sol, Tijuana, Municipio de Tijuana, Baja California, 22001, México","(32.538376, -117.067814, 0.0)",32.538376,-117.067814
+JUAREZ,375,"JUAREZ,Tijuana,Mexico","Juárez, Tijuana, Municipio de Tijuana, Baja California, 22500, México","(32.516214, -117.0346116, 0.0)",32.516214,-117.0346116
+URBIVILLA DEL PRADO,372,"URBIVILLA DEL PRADO,Tijuana,Mexico",,,32.4078,-116.9661
+SECCION COSTA HERMOSA,368,"SECCION COSTA HERMOSA,Tijuana,Mexico",,,32.512,-117.1162
+ALEMAN,359,"ALEMAN,Tijuana,Mexico","Xicotencatl Leyva Alemán, Tijuana, Municipio de Tijuana, Baja California, 22505, México","(32.5197707, -117.0996153, 0.0)",32.5197707,-117.0996153
+LAS PALMAS,358,"LAS PALMAS,Tijuana,Mexico","Las Palmas, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, 22106, México","(32.5035544, -116.9857162, 0.0)",32.5035544,-116.9857162
+JARDINES DE LA MESA,352,"JARDINES DE LA MESA,Tijuana,Mexico","Jardines, Calle Mar De Cortés, Constitución de 1917, El Porvenir, Tijuana, Municipio de Tijuana, Baja California, 22640, México","(32.49016, -116.922158, 0.0)",32.49016,-116.922158
+POBLADO EJIDO MATAMOROS,349,"POBLADO EJIDO MATAMOROS,Tijuana,Mexico",,,32.518,-116.855
+COLINAS DE CALIFORNIA,348,"COLINAS DE CALIFORNIA,Tijuana,Mexico","Colinas de California, Del. Sanchez Taboada, Tijuana, Municipio de Tijuana, Baja California, 22647, México","(32.4664709, -117.0043899, 0.0)",32.4664709,-117.0043899
+VILLAS DE BAJA CALIFORNIA,345,"VILLAS DE BAJA CALIFORNIA,Tijuana,Mexico","Hyspan de México, Privada Villas de San Antonio, Real de Loma Bonita, Del. Sanchez Taboada, Tijuana, Municipio de Tijuana, Baja California, 22626, México","(32.476142, -117.03845768130552, 0.0)",32.476142,-117.03845768130552
+LOS ALTOS,343,"LOS ALTOS,Tijuana,Mexico","Los Altos, Del. Sanchez Taboada, La Joya, Municipio de Tijuana, Baja California, 22217, México","(32.4452336, -116.9985031, 0.0)",32.4452336,-116.9985031
+HIPODROMO,340,"HIPODROMO,Tijuana,Mexico","Galerías Hipódromo, Misiones de Pedregal Fraccionamiento, Tijuana, Municipio de Tijuana, Baja California, México","(32.50850895, -116.99274531878237, 0.0)",32.50850895,-116.99274531878237
+LOS LOBOS,339,"LOS LOBOS,Tijuana,Mexico",,,32.5026,-116.8991
+URBIVILLA DEL PRADO 2,338,"URBIVILLA DEL PRADO 2,Tijuana,Mexico",,,32.4229,-116.9691
+CACHO,337,"CACHO,Tijuana,Mexico","Madero (La Cacho), Tijuana, Municipio de Tijuana, Baja California, 22040, México","(32.520464, -117.027871, 0.0)",32.520464,-117.027871
+EJIDO CHILPANCINGO,319,"EJIDO CHILPANCINGO,Tijuana,Mexico","Calle Ejido Chilpancingo, Valencia, Jardín Dorado, Chilpancingo, Municipio de Tijuana, Baja California, 22207, México","(32.5149685, -116.9028461, 0.0)",32.5149685,-116.9028461
+VILLA FONTANA,318,"VILLA FONTANA,Tijuana,Mexico","Villa Fontana, El Dorado, Valle Verde, Tijuana, Municipio de Tijuana, Baja California, 22205, México","(32.5065109, -116.8719097, 0.0)",32.5065109,-116.8719097
+LOMAS VIRREYES,317,"LOMAS VIRREYES,Tijuana,Mexico","Lomas Virreyes, Municipio de Tijuana, Baja California, 22230, México","(32.4571167, -116.8868715, 0.0)",32.4571167,-116.8868715
