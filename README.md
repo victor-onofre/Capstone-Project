@@ -10,4 +10,50 @@ Given the city's geographic point, a rise in violence related to drug traffickin
 
 ### Results
 
+Frecuency of crime classification in period 2014-2019:
+
 ![Frecuency of crime classification in period 2014-2019!](results_graph/Crime_classification.png "Frecuency of crime classification in period 2014-2019")
+
+The state of Baja California is the first place in vehicle theft in the country, and it is not surprisingthat in Tijuana the numbers of this crime are so big.  An analysis of each crime is of importance, but in thiswork, the focus will be on violent crimes, especially theft to business with violence and homicides.  So, we candivide the data just with violent crimes as follows:
+
+- Homicide (Violent)
+- Malicious wounding
+- Residential burglary with violence
+- Robbery with violence (public areas)
+- Theft with violence to a bussiness
+- Theft of vehicle with violence
+- Other robberies with violence
+
+Violent crimes are only the 31.49 % of the total crimes presented in the data, but this type of crimesare the ones that affect more the life in the city
+
+Frequency of violent crimes in the period 2014-2019:
+
+![Frequency of violent crimes in the period 2014-2019!](results_graph/Crime_classification_violent.png "Frequency of violent crimes in the period 2014-2019")
+
+The most violent neighborhoods :
+
+![The most violent neighborhoods !](results_graph/violent_crimes_colonias.png "The most violent neighborhoods ")
+
+**Interactive map that show the 100 most violent neighborhoods and the number of violent crimes in each one:** [Interactive map](https://rawcdn.githack.com/victor-onofre/Capstone-Project/b53d7076d87109d42c45ad870a382c22f88cf2f1/violent_crimes_Tijuana.html).
+
+#### Homicides
+
+The neighborhoods with the highest number of homicides:
+
+![The neighborhoods with the highest number of homicides!](results_graph/HOMICIDES_neighborhood.png "The neighborhoods with the highest number of homicides")
+
+**Interactive Map that show the number of homicides in the 100 more violent neighborhoods, the intensity of redmeans more homicides in that area:** [Interactive map](https://rawcdn.githack.com/victor-onofre/Capstone-Project/b53d7076d87109d42c45ad870a382c22f88cf2f1/Homicides_Tijuana.html).
+
+ Frequency of homicides by year and hour:
+ 
+![Frequency of homicides by year!](results_graph/homicides_year.png "Frequency of homicides by year")
+ 
+![Frequency of homicides by hour!](results_graph/homicides_hour.png "Frequency of homicides by hour")
+
+#### Local businesses
+
+Frequency of the more common venues in violent neighborhoods:
+
+![Frequency of the more common venues in violent neighborhoods!](results_graph/common_violent_venues.png "Frequency of the more common venues in violent neighborhoods")
+
+**Interactive Map of the clusters of the most common venues in the violent neighborhoods of the city.  The purple and red dots are mostly restaurants and bars, the green dots are mostly convenience stores:** [Interactive map](https://rawcdn.githack.com/victor-onofre/Capstone-Project/39f0420ff1e9ce2b927cb1e84ed77fa58d5c8da2/Venues_Clusters_Tijuana.html).
