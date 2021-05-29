@@ -36,13 +36,17 @@ The most violent neighborhoods :
 
 **Interactive map that show the 100 most violent neighborhoods and the number of violent crimes in each one:** [Interactive map](https://rawcdn.githack.com/victor-onofre/Capstone-Project/b53d7076d87109d42c45ad870a382c22f88cf2f1/violent_crimes_Tijuana.html).
 
+![The most violent neighborhoods !](results_graph/number_crime.png "The most violent neighborhoods ")
+
 #### Homicides
 
 The neighborhoods with the highest number of homicides:
 
 ![The neighborhoods with the highest number of homicides!](results_graph/HOMICIDES_neighborhood.png "The neighborhoods with the highest number of homicides")
 
-**Interactive Map that show the number of homicides in the 100 more violent neighborhoods, the intensity of redmeans more homicides in that area:** [Interactive map](https://rawcdn.githack.com/victor-onofre/Capstone-Project/b53d7076d87109d42c45ad870a382c22f88cf2f1/Homicides_Tijuana.html).
+**Interactive Map that show the number of homicides in the 100 more violent neighborhoods, the intensity of red means more homicides in that area:** [Interactive map](https://rawcdn.githack.com/victor-onofre/Capstone-Project/b53d7076d87109d42c45ad870a382c22f88cf2f1/Homicides_Tijuana.html).
+
+![The neighborhoods with the highest number of homicides!](results_graph/heatmap.png "The neighborhoods with the highest number of homicides")
 
  Frequency of homicides by year and hour:
  
@@ -57,3 +61,5 @@ Frequency of the more common venues in violent neighborhoods:
 ![Frequency of the more common venues in violent neighborhoods!](results_graph/common_violent_venues.png "Frequency of the more common venues in violent neighborhoods")
 
 **Interactive Map of the clusters of the most common venues in the violent neighborhoods of the city.  The purple and red dots are mostly restaurants and bars, the green dots are mostly convenience stores:** [Interactive map](https://rawcdn.githack.com/victor-onofre/Capstone-Project/39f0420ff1e9ce2b927cb1e84ed77fa58d5c8da2/Venues_Clusters_Tijuana.html).
+
+![Frequency of the more common venues in violent neighborhoods!](results_graph/bussines_map.png "Frequency of the more common venues in violent neighborhoods")
